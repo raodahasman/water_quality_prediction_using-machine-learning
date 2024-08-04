@@ -19,6 +19,7 @@ Kaggle: [Water Quality](https://www.kaggle.com/datasets/mssmartypants/water-qual
 
 ## Introduction
 Water is a valuable asset, and its availability affects many aspects of daily life, including agriculture, industry, and household needs. However, poor water quality can have detrimental effects, particularly by threatening public health and causing various diseases. By creating a project to predict whether water is safe or not, prevention measures can be taken to protect public health.
+
 Objective: This project is created to enhance the model's ability to predict whether water is classified as safe or not, so that water can be used/ utilized according to the needs of the community.
 
 ## Conclusion
